@@ -1,9 +1,6 @@
 package pages;
 
 
-import com.codeborne.selenide.CollectionCondition;
-
-import java.util.List;
 
 import static com.codeborne.selenide.Condition.visible;
 import static com.codeborne.selenide.Selectors.byText;
